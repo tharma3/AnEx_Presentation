@@ -1,4 +1,4 @@
-# AnEx_Presentation: Getting Started with Python and Useful Public APIs
+# AnEx Presentation: Getting Started with Python and Useful Public APIs
 Materials for the 2025 AnEx session on using the Open Data API.
 
 Welcome to this session on getting started with Python and the Open Data API!
